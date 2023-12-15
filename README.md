@@ -7,7 +7,7 @@ Apple SwiftUI
 https://developer.apple.com/tutorials/SwiftUI
 
 Swift TutorialsPoint
-https://www.tutorialspoint.com/swift/index.html
+https://www.tutorialspoint.com/swift/index.htm
 
 HackingWithSwift / SwiftUI
 https://www.hackingwithswift.com/quick-start/swiftui
